@@ -1,7 +1,7 @@
 # sheerannumbers
 Code for generating the Sheeran Numbers.
 
-We define a Sheeran Number to be: any number which can be made using the three Ed Sheeran albums, + (2011), × (2014) and ÷ (2017), along with four other numbers which are also the names of distinct UK number one albums in Ed Sheeran's lifetime (since February 1991). The order of operator precedence is given by: the most recent album is resolved first, then proceed backwards towards the earliest album.
+We define a Sheeran Number to be: any number which can be made using the three Ed Sheeran albums, + (2011), × (2014) and ÷ (2017), along with four other numbers which are also the names of distinct UK number one albums in Ed Sheeran's lifetime (since February 1991). The order of operator precedence is given by: the most recent album is resolved first, then proceed backwards towards the earliest album. In this case I'm considering only numbers that are made using all three operators (in some order) and four number albums.
 
 The numerical albums permitted within the given date range are:
 1 (The Beatles), 3 (Take That), 4 (Beyoncé), 4 (One Direction), 5 (5ive), 7 (S Club 7), 13 (Blur), 13 (Black Sabbath), 18 (Moby), 19 (Adele), 21 (Adele), 25 (Adele), 25 (George Michael), 50 (Rick Astley), 1977 (Ash), 1989 (Taylor Swift) and 8701 (Usher). Note that three numbers occur twice in this list (4, 13, 25), and hence they are the only ones allowed to be used more than once.
